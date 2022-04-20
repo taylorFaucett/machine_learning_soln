@@ -17,6 +17,7 @@ dependencies:
   - statsmodels
   # Plotting
   - matplotlib
+  - seaborn
   # Jupyter
   - jupyter
   - ipython
