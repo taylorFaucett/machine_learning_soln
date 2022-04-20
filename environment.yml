@@ -1,0 +1,24 @@
+---
+name: machina_hw
+
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  # Core Scientific
+  - numpy
+  - pandas
+  - h5py
+  # Stats/ML
+  - scikit-learn
+  - tensorflow
+  - xgboost
+  - lightgbm
+  - statsmodels
+  # Plotting
+  - matplotlib
+  # Jupyter
+  - jupyter
+  - ipython
+  # PIP
+  - pip
