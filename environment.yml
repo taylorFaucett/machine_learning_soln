@@ -23,3 +23,7 @@ dependencies:
   - ipython
   # PIP
   - pip
+  - pip:
+      - parameter-sherpa
+      - tqdm
+      - wget
