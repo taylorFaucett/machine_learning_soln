@@ -1,5 +1,5 @@
 ---
-name: machina_hw
+name: machina
 
 channels:
   - conda-forge
@@ -26,4 +26,3 @@ dependencies:
   - pip:
       - parameter-sherpa
       - tqdm
-      - wget
