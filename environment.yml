@@ -12,7 +12,7 @@ dependencies:
   # Stats/ML
   - scikit-learn
   - tensorflow
-  - xgboost
+  - xgboost=1.5.1
   - lightgbm
   - statsmodels
   # Plotting
