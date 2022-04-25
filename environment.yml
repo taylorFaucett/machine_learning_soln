@@ -19,7 +19,7 @@ dependencies:
   - matplotlib
   - seaborn
   # Jupyter
-  - jupyter
+  - jupyterlab
   - ipython
   # PIP
   - pip
